@@ -23,7 +23,7 @@ client.on("message", message => {
 //bc online
 
 
-  var prefix = "1";
+  var prefix = "2";
 
   client.on("message", message => {
   
